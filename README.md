@@ -1,4 +1,4 @@
-# POREĐENJE VIŠE SISTEMA – ANOVA TEHNIKA I TEHNIKA KONTRASTA
+# POREĐENJE VIŠE SISTEMA – ANOVA TEHNIKA I TEHNIKA KONTRASTA (_Performanse računarskih sistema_) 
 
 * Implementacija je izvršena u _Python_ programskom jeziku.
 
